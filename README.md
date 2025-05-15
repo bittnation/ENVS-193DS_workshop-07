@@ -20,6 +20,6 @@ What code is there, and what does it do?
 
 Link to the rendered output. Make sure it is a **working url**. You can test this by sharing the url with someone else to open on their computer - if it doesn't work, that means your GitHub pages set up didn't
 
-
+https://bittnation.github.io/ENVS-193DS_workshop-07/
 
 swork.
